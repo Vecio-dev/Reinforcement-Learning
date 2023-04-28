@@ -1,4 +1,3 @@
-from os import stat
 import gym
 import numpy as np
 
